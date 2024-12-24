@@ -1,26 +1,18 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hola+Amigo!+👋;+Hi there, I'm Rajkoli145 👋!;" /></h1>
-
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&lines=Hi+I'm+Raj+Koli!+👋" />
+</h1>
 
 
 Welcome to my GitHub profile! I'm passionate about software development and love working on new and exciting projects. Here's a bit about me:
-
-
-## 🚀 About Me
-
-•	I’m currently learning python, C++, No-Code platform. 
-•	👯 I’m looking to collaborate on front-end projects, mobile app development, and data visualization.
-•	🤔 I’m looking for help with debugging JavaScript code, building dynamic web applications, and mastering React hooks.
-•	💬 Ask me about JavaScript, React, and basic web development concepts.
-•	📫 How to reach me: rajkoli145@gmail.com.
-•	⚡ Fun fact: I once created an interactive snake game in JavaScript!
-
-
+    
+ </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d3eda17a-4912-4f63-af43-18baaf2f3412" alt="Computer GIF" width="500" height="400">
+  <img src="https://github.com/user-attachments/assets/d3eda17a-4912-4f63-af43-18baaf2f3412" alt="Computer GIF" width="400" height="300">
 </div>
 
-
-                                            👨‍💻 I am a Passionate Learner  
+## 🚀 About Me
+                                            
+                             👨‍💻 I am a Passionate Learner  
 
                    🚀 A coding enthusiast weaving a digital journey that blends creativity and innovation into meaningful solutions.  
 
