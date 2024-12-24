@@ -39,6 +39,8 @@
 
 </div>
 
+![GitHub Snake](https://raw.githubusercontent.com/Rajkoli145/snake1/refs/heads/main/github-user-contribution-3.svg)
+
 
 
 
