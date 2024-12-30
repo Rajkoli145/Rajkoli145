@@ -22,10 +22,13 @@
 
                         💡 I enjoy solving problems, building projects, and participating in hackathons like Buildathon.  
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<div align="center">
+    
+</p>
 
 <div align="center">
-
-### Connect with Me
+<h2>Connect with Me</h2> 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/rajnkoli06/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:2024.rajk@isu.ac.in)
@@ -33,31 +36,36 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/koli_raj57974)
 
 
----
 
-### Tools I Use
+<p align="center">
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,py,c,cpp,html,css,anaconda,linkedin,postman,vscode" />
+<img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
+  </a>
+</p>
 
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/scratch.png" alt="Scratch" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40"/>
+</p>
+
 
 </div>
+<h2>My contribution</h2>
 
 ![GitHub Snake](https://raw.githubusercontent.com/Rajkoli145/snake1/refs/heads/main/github-user-contribution-3.svg)
 
-
-
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<div align="center">
 
 [![Raj Koli's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajkoli145&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Raj Koli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajkoli145&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkoli145&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkoli145&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajkoli145&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajkoli145&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajkoli145&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajkoli145&theme=solarized&utcOffset=5.3)
+
+</div>
 
 
+
+ 
+ 
 
