@@ -3,7 +3,7 @@
 </h1>
 
 
-Welcome to my GitHub profile! I'm passionate about software development and love working on new and exciting projects. Here's a bit about me:
+## Welcome to my GitHub profile! I'm passionate about software development and love working on new and exciting projects. 
     
  </div>
 <div align="center">
