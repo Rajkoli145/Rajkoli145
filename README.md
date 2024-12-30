@@ -18,7 +18,7 @@
 
             🌱 I’m currently learning **Generative AI, C++, and Google AppSheet to expand my expertise in emerging technologies.  
 
-                  ⚡ I am also interested in **Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality**.  
+                  ⚡ I am also interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality.  
 
                         💡 I enjoy solving problems, building projects, and participating in hackathons like Buildathon.  
 
