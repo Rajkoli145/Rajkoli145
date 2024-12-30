@@ -55,12 +55,9 @@
 
 
 [![Raj Koli's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajkoli145&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ![Raj Koli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajkoli145&show_icons=true&theme=radical)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkoli145&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkoli145&layout=compact)
 
 
 
