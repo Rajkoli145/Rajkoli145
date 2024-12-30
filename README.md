@@ -16,7 +16,7 @@
 
                    🚀 A coding enthusiast weaving a digital journey that blends creativity and innovation into meaningful solutions.  
 
-            🌱 I’m currently learning **Generative AI, C++, and Google AppSheet to expand my expertise in emerging technologies.  
+            🌱 I’m currently learning Generative AI, C++, and Google AppSheet to expand my expertise in emerging technologies.  
 
                   ⚡ I am also interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality.  
 
