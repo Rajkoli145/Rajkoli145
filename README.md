@@ -58,7 +58,10 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
 
-[![Raj Koli's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajkoli145&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkoli145&theme=react-dark" alt="Raj Koli's Contribution Graph" width="900">
+</a>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajkoli145&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajkoli145&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajkoli145&theme=transparent)
