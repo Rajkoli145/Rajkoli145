@@ -14,15 +14,15 @@
 
 ## 🚀 About Me
                                             
-                             👨‍💻 I am a Passionate Learner  
-
-                   🚀 A coding enthusiast weaving a digital journey that blends creativity and innovation into meaningful solutions.  
-
-            🌱 I’m currently learning Generative AI, C++, and Google AppSheet to expand my expertise in emerging technologies.  
-
-                  ⚡ I am also interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality.  
-
-                        💡 I enjoy solving problems, building projects, and participating in hackathons like Buildathon.  
+ 👨‍💻 I am a Passionate Learner 
+ 
+ 🚀 A coding enthusiast weaving a digital journey that blends creativity and innovation into meaningful solutions. 
+ 
+ 🌱 I’m currently learning Generative AI, C++, and Google AppSheet to expand my expertise in emerging technologies.  
+ 
+ ⚡ I am also interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality. 
+ 
+ 💡 I enjoy solving problems, building projects, and participating in hackathons like Buildathon.  
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
