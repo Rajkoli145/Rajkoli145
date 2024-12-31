@@ -3,8 +3,11 @@
 </h1>
 
 
+
 ## Welcome to my GitHub profile! 
-    
+
+  ![Хакер](https://github.com/user-attachments/assets/24c288ad-ac07-48ed-9caf-f6331a872611)
+
  </div>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d3eda17a-4912-4f63-af43-18baaf2f3412" alt="Computer GIF" width="400" height="300">
