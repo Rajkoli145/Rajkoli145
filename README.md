@@ -22,7 +22,7 @@
  
  ⚡ I am also interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality. 
  
- 💡 I enjoy solving problems, building projects, and participating in hackathons like Buildathon.  
+ 💡 I enjoy solving problems, building projects, and participating in hackathons.  
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
