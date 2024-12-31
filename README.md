@@ -54,7 +54,7 @@
 </div>
 <h2>My contribution</h2>
 
-<img src="https://raw.githubusercontent.com/Rajkoli145/snake1/refs/heads/main/github-user-contribution-3.svg" alt="GitHub Snake" width="2000">
+<img src="https://raw.githubusercontent.com/Rajkoli145/snake1/refs/heads/main/github-user-contribution-3.svg" alt="GitHub Snake" width="4000">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
