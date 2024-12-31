@@ -45,6 +45,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,py,c,cpp,html,css,anaconda,linkedin,postman,vscode" />
 <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
   </a>
+
 </p>
 
 </p>
