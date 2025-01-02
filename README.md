@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&lines=Hi+I'm+Raj+Koli!+👋" />
 </h1>
 
-![banner](https://github.com/user-attachments/assets/409102b9-a443-4dbd-8758-bab9c67e2aad)
-
 
 
 ## Welcome to my GitHub profile! 
