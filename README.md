@@ -7,7 +7,8 @@
 ## Welcome to my GitHub profile! 
 <div>
 <div align ="center">
-<img src="https://github.com/user-attachments/assets/24c288ad-ac07-48ed-9caf-f6331a872611" alt="Хакер" width="900">
+<img src="![Coding No Idea GIF by Scaler]
+" alt="Хакер" width="900">
 
 </div>
 
