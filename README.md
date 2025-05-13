@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&lines=Hi+I'm+Raj+Koli!+👋" />
 </h1>
 
-
+![Random GIF](https://rajkoli145.github.io/Randomly-gif-gen/random.gif)
 
 ## Welcome to my GitHub profile! 
 <div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3b63cfb0-3c6e-4407-8d35-0e0982b50301" alt="Хакер" width="600">
+
 </div>
 
 </div>
