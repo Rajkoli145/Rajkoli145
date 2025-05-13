@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&lines=Hi+I'm+Raj+Koli!+👋" />
 </h1>
 
-![Random GIF](https://rajkoli145.github.io/Randomly-gif-gen/random.gif)
+![Random GIF](https://rajkoli145.github.io/Randomly-gif-gen/)
 
 ## Welcome to my GitHub profile! 
 <div>
