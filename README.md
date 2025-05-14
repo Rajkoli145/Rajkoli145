@@ -2,15 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&lines=Hi+I'm+Raj+Koli!+👋" />
 </h1>
 <h2>Welcome to my GitHub profile! </h2>
-<div>
-
-  ![Work from Home](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-</div>
-
-<div>
 <div align="center">
-
-</div>
+  
+  ![Work from Home](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 </div>
 
