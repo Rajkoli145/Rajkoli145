@@ -4,7 +4,7 @@
 <h2>Welcome to my GitHub profile! </h2>
 <div align="center">
   
-  ![Work from Home](![image](https://github.com/user-attachments/assets/7af0401c-4f41-4ee0-ab19-0cd76bb36071)
+![Work from Home](![image](https://github.com/user-attachments/assets/7af0401c-4f41-4ee0-ab19-0cd76bb36071)
  
 
 </div>
