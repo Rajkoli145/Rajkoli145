@@ -4,7 +4,8 @@
 <h2>Welcome to my GitHub profile! </h2>
 <div align="center">
   
-(![image](https://github.com/user-attachments/assets/7af0401c-4f41-4ee0-ab19-0cd76bb36071)
+![image](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
+
  
 
 </div>
