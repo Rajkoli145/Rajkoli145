@@ -4,7 +4,8 @@
 <h2>Welcome to my GitHub profile! </h2>
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
+![Coding Work From Home GIF by Domme Space](https://github.com/user-attachments/assets/3255d9ca-d2fe-40d0-864e-7fc95b3e55f7)
+
 
  
 
