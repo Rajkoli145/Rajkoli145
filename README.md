@@ -12,17 +12,15 @@
 </div>
 
 
-## 🚀 About Me
-                                            
- 👨‍💻 I am a Passionate Learner 
- 
- 🚀 A coding enthusiast weaving a digital journey that blends creativity and innovation into meaningful solutions. 
- 
- 🌱 I’m currently learning Generative AI, C++, and Google AppSheet to expand my expertise in emerging technologies.  
- 
- ⚡ I am also interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality. 
- 
- 💡 I enjoy solving problems, building projects, and participating in hackathons.  
+## 👨‍💻 I’m a developer who believes skills are earned by building, not by talking about them.
+
+🧠 I enjoy understanding how things work behind the scenes — from APIs and databases to logic, flow, and structure.
+
+⚙️ Most of my work revolves around full-stack development, with growing hands-on experience in AI-based features and automation.
+
+🌱 Right now, I’m sharpening my fundamentals while exploring Generative AI, backend systems, and scalable project design.
+
+💡 Hackathons, side projects, and fixing broken code teach me more than tutorials ever could — that’s where I spend my time.  
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
@@ -30,7 +28,8 @@
 </p>
 
 <div align="center">
-<h2>Connect with Me</h2> 
+<h2>If you like building, learning, or discussing ideas that go beyond surface-level code, let’s connect</h2> 
+
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/rajnkoli06/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:2024.rajk@isu.ac.in)
@@ -51,7 +50,7 @@
 
 
 </div>
-<h2>My contribution</h2>
+<h2>Consistency beats motivation. I show up, write code, and improve — every week</h2>
 
 <img src="https://raw.githubusercontent.com/Rajkoli145/snake1/refs/heads/main/github-user-contribution-3.svg" alt="GitHub Snake" width="4000">
 
