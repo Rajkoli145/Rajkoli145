@@ -1,7 +1,7 @@
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&lines=Hi+I'm+Raj+Koli!+👋" />
 </h1>
-<h2>Welcome to my GitHub profile! </h2>
+<h2>This space is a log of what I’m building, learning, and improving — one project at a time</h2>
 <div align="center">
   
 ![Coding Work From Home GIF by Domme Space](https://github.com/user-attachments/assets/3255d9ca-d2fe-40d0-864e-7fc95b3e55f7)
