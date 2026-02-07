@@ -38,11 +38,37 @@ This GitHub is a timeline of that progress.
 - APIs & basic system design
 - Data handling & flow
 
+## 🛠 Languages, Tools & Platforms
+
+**Languages**
+- JavaScript (primary)
+- TypeScript (used in real projects & SDK work)
+- HTML & CSS
+- Python (scripting & logic)
+- C / C++ (DSA & fundamentals)
+- SQL (basic querying)
+- COBOL (learning & legacy-system exposure)
+
+**Frameworks & Libraries**
+- Next.js (React-based apps & routing)
+- Node.js
+- Chart.js (data visualization)
+
+**Backend & Systems**
+- REST APIs
+- Firebase (Auth, Firestore, rules)
+- Basic system design & data flow
+
 **Tools & Platforms**
-- Git & GitHub
-- Firebase
-- Render / basic deployment
-- No-code tools (Bubble) when speed matters
+- Git & GitHub 
+- Render 
+- Bubble 
+- Postman 
+- VS Code
+- Terminal-based workflows
+
+**Low-Level / Systems Learning**
+- Terminal Bench (CPU-time, performance-oriented tasks)
 
 ---
 
