@@ -1,115 +1,104 @@
-# Hi, I'm Raj 👋
+<div align="center">
 
-I’m a developer who learned by building — breaking things, fixing them, and doing it again until it worked.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raj%20Koli&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20CLI%20%26%20Systems%20%7C%20AI%20Infrastructure&descSize=16&descAlignY=58&descColor=a89fd4"/>
 
-Code is my notebook.  
-Every repository here represents something I learned the hard way.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A89FD4&center=true&vCenter=true&width=600&lines=Building+things+that+work+in+production;CLI+tools+%7C+REST+APIs+%7C+AI+Training+Tasks;Open+source+contributor+%7C+Navi+Mumbai+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 🚀 My Journey (0 → Real Projects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-koli-626008318/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koliraj911@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajkoli145)
 
-I didn’t start with fancy frameworks or perfect plans.
-
-I started with:
-- basic HTML, CSS
-- small JavaScript projects
-- cloning real-world apps to understand how things actually work
-
-Over time, I moved to:
-- full-stack projects
-- hackathons & rapid prototyping
-- open-source contributions
-- thinking in terms of **systems**, not just code
-
-This GitHub is a timeline of that progress.
+</div>
 
 ---
 
-## 🛠 What I Work With
+## 👨‍💻 About Me
+
+```bash
+$ whoami
+> Raj Koli — Software Engineer, Navi Mumbai
+
+$ cat interests.txt
+> CLI tooling & Linux automation
+> Backend architecture & API development
+> AI training task design & model benchmarking
+> Open source infrastructure
+
+$ cat currently.txt
+> BTech CS @ ITM Skills University (2024–2028)
+> Contributing to fintech SDK @ La Tanda
+> Exploring AI reasoning model datasets
+```
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Backend & Systems**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-555?style=flat-square)
 
 **Frontend**
-- HTML, CSS, JavaScript
-- UI-focused builds (clean, simple, usable)
-- Animations & interactive components
 
-**Backend & Logic**
-- Node.js
-- APIs & basic system design
-- Data handling & flow
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## 🛠 Languages, Tools & Platforms
+**Databases & Tools**
 
-## ⚡ Tech Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+**AI / LLM**
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-grey)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-
-**Low-Level / Systems Learning**
-- Terminal Bench (CPU-time, performance-oriented tasks)
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajkoli145&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkoli145&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-## 📂 What You’ll Find Here
-
-- 🔁 App clones (to understand real products)
-- 🧩 Small focused projects (one concept at a time)
-- 🏗 Full projects built end-to-end
-- 🧠 Experiments from hackathons & learning sprints
-
-I care more about **clarity and learning** than just stacking stars.
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-555?style=flat-square)
+![Model Benchmarking](https://img.shields.io/badge/Model_Benchmarking-302b63?style=flat-square)
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Stats
 
-- Building production-quality projects
-- Writing cleaner, more understandable code
-- Open-source collaboration (reading others’ code, not just mine)
-- Improving frontend polish + system thinking
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajkoli145&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a89fd4&icon_color=a89fd4&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkoli145&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a89fd4&text_color=c9d1d9" height="165"/>
+</div>
 
----
-
-## 🤝 How I Think About Code
-
-- Simple > clever
-- Shipped > perfect
-- Learning > showing off
-
-If something here looks rough, it probably taught me something valuable.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkoli145&theme=tokyonight&hide_border=true&background=0d1117&ring=a89fd4&fire=a89fd4&currStreakLabel=a89fd4" height="165"/>
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
 
-- GitHub: https://github.com/Rajkoli145
-- LinkedIn: https://www.linkedin.com/in/raj-koli-626008318/
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajkoli145&theme=tokyonight&no-frame=true&no-bg=true&column=6"/>
+</div>
 
 ---
 
-Thanks for stopping by.  
-If you’re reading this, you’re already part of the journey.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+
+</div>
