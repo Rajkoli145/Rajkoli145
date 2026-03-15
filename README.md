@@ -98,12 +98,14 @@ $ cat currently.txt
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajkoli145&theme=tokyonight&no-frame=true&no-bg=true&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajkoli145&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajkoli145.Rajkoli145&style=flat-square&color=a89fd4" alt="Visitors"/>
+  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Rajkoli145&style=flat-square&color=a89fd4" alt="Profile views"/>
   <br/><br/>
   <i>Full stack from database to UI — with systems depth most devs don't have.</i>
