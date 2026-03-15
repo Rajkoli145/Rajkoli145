@@ -10,23 +10,23 @@
 
 ### I'm a 20 year old Full Stack Developer . 
 
-<img src="https://media.tenor.com/1cL5fzcjpaQAAAAM/laptop.gif" width="40"> BTech CS @ ITM Skills University (2024–2028)
+<img src="https://media.tenor.com/1cL5fzcjpaQAAAAM/laptop.gif" width="60"> BTech CS @ ITM Skills University (2024–2028)
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9saG83d3B5NnJnaGNtMHkyMHB2bHFwZG5peHBtcmgwaDl1dDNrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3hLW6IdSX4CMW8RrBn/200.webp" width="40"> I build complete products — frontend to database
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9saG83d3B5NnJnaGNtMHkyMHB2bHFwZG5peHBtcmgwaDl1dDNrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3hLW6IdSX4CMW8RrBn/200.webp" width="60"> I build complete products — frontend to database
 
-<img src="https://miro.medium.com/1*ltWK3JQurOKZwt_hydqYbw.gif" width="40"> Systems guy too — CLI tools, Linux, shell scripting
+<img src="https://miro.medium.com/1*ltWK3JQurOKZwt_hydqYbw.gif" width="60"> Systems guy too — CLI tools, Linux, shell scripting
 
-<img src="https://media.tenor.com/gHYyb5KCG_gAAAAM/mfpurrs-matrix.gif" width="40"> Into AI infrastructure and model benchmarking
+<img src="https://media.tenor.com/gHYyb5KCG_gAAAAM/mfpurrs-matrix.gif" width="60"> Into AI infrastructure and model benchmarking
 
-<img src="https://media.tenor.com/vK4BBOuyxZIAAAAM/gaming-timmy-turner.gif" width="40"> Gaming when the code is deployed
+<img src="https://media.tenor.com/vK4BBOuyxZIAAAAM/gaming-timmy-turner.gif" width="60"> Gaming when the code is deployed
 
 </br>
 
 ### currently :
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Open to internships, collabs and work opportunities
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> Open to internships, collabs and work opportunities
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="40"> Improving systems and DevOps depth
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60"> Improving systems and DevOps depth
 
 </br>
 </br>
