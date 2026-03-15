@@ -8,19 +8,17 @@
 
 <img height="300" width="400" alt="GIF" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### I'm a 20 year old Full Stack Developer from Navi Mumbai, India.
+### I'm a 20 year old Full Stack Developer . 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> BTech CS @ ITM Skills University (2024–2028)
+<img src="https://media.tenor.com/1cL5fzcjpaQAAAAM/laptop.gif" width="40"> BTech CS @ ITM Skills University (2024–2028)
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="20"> I build complete products — frontend to database
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9saG83d3B5NnJnaGNtMHkyMHB2bHFwZG5peHBtcmgwaDl1dDNrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3hLW6IdSX4CMW8RrBn/200.webp" width="40"> I build complete products — frontend to database
 
-<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="20"> Systems guy too — CLI tools, Linux, shell scripting
+<img src="https://miro.medium.com/1*ltWK3JQurOKZwt_hydqYbw.gif" width="40"> Systems guy too — CLI tools, Linux, shell scripting
 
-<img src="https://media.giphy.com/media/SXx6ayVTnswgewNnqL/giphy.gif" width="20"> Into AI infrastructure and model benchmarking
+<img src="https://media.tenor.com/gHYyb5KCG_gAAAAM/mfpurrs-matrix.gif" width="40"> Into AI infrastructure and model benchmarking
 
-<img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="20"> Anime fan — Death Note, AOT, Code Geass
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="20"> Gaming when the code is deployed
+<img src="https://media.tenor.com/vK4BBOuyxZIAAAAM/gaming-timmy-turner.gif" width="40"> Gaming when the code is deployed
 
 </br>
 
