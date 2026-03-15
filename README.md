@@ -24,11 +24,9 @@
 
 ### currently :
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="20"> Open to internships, collabs and work opportunities
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Open to internships, collabs and work opportunities
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="20"> Improving systems and DevOps depth
-
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="20"> Building in public — every repo is something shipped
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="40"> Improving systems and DevOps depth
 
 </br>
 </br>
