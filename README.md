@@ -62,13 +62,12 @@
 ![Model Benchmarking](https://img.shields.io/badge/Model_Benchmarking-C9A84C?style=flat-square)
 
 ## GitHub Stats
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajkoli145&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="680"/>
+  <img src="https://streak-stats.demolab.com/?user=Rajkoli145&theme=tokyonight&hide_border=true&background=0d1117&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" width="680"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rajkoli145&theme=tokyonight&hide_border=true&background=0d1117&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" width="680"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajkoli145&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="680"/>
 </p>
 
 ---
