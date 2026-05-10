@@ -64,8 +64,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajkoli145&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9A84C&icon_color=C9A84C&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkoli145&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9A84C&text_color=c9d1d9" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajkoli145&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="680"/>
 </p>
 
 <p align="center">
