@@ -144,21 +144,12 @@ Research handbook covering
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rajkoli145&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkoli145&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+# 📊 GitHub Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Rajkoli145&theme=tokyonight&hide_border=true&background=0d1117&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" width="97%"/>
+  <img src="https://streak-stats.demolab.com?user=Rajkoli145&theme=tokyonight&hide_border=true&background=0d1117&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" width="95%"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rajkoli145&theme=tokyonight&no-frame=true&column=7&margin-w=5" width="97%"/>
-</p>
-
----
 
 # 🌱 Currently Learning
 
