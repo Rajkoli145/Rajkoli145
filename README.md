@@ -141,15 +141,17 @@ Research handbook covering
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-C9A84C?style=flat-square)
 
 ---
-
 # 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rajkoli145&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 # 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rajkoli145&theme=tokyonight&hide_border=true&background=0d1117&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" width="95%"/>
 </p>
-
 
 # 🌱 Currently Learning
 
